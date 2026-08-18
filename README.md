@@ -157,3 +157,14 @@ output "lb_external_ip" {
 }
 ```
 
+*2. Скриншот статуса балансировщика и целевой группы.*
+<img width="1336" height="407" alt="Балансировщик" src="https://github.com/user-attachments/assets/c00492f6-87fe-4ccd-a063-2984b1bd958c" />
+<img width="789" height="1117" alt="Балансировщик 2" src="https://github.com/user-attachments/assets/81c9939a-56b1-4799-afe3-c322bb3c25af" />
+<img width="819" height="455" alt="Целевая группа" src="https://github.com/user-attachments/assets/163325c3-7914-4574-9d69-a5b7a3cab32c" />
+
+*3. Скриншот страницы, которая открылась при запросе IP-адреса балансировщика.*
+<img width="1739" height="415" alt="Страница" src="https://github.com/user-attachments/assets/ed5c5f6c-72d6-40ae-99b9-8a2d3ae53969" />
+
+
+
+
